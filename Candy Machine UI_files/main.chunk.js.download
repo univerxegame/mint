@@ -927,7 +927,7 @@ const Home = props => {
             marginTop: 7,
             color: "grey"
           },
-          children: "Connect Your Solana Wallet"
+          children: "Connect Your Solana Wallet with 1◎"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 642,
